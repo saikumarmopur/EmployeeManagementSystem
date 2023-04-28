@@ -49,6 +49,26 @@ And repeat
 ```
 until finished
 ```
+## 🔧 Running the tests <a name = "tests"></a>
+Explain how to run the automated tests for this system.
+
+### Break down into end to end tests
+Explain what these tests test and why
+
+
+
+
+
+### And coding style tests
+
+
+<p align="center">
+  <a href="" rel="">
+    <img width=300px height=200px src="C:\Users\shaik chand basha\Pictures\Screenshots\Screenshot (125).png"
+</a>
+</p>
+
+Give an example
 
 <p align="center">
   <a href="" rel="">
