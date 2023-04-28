@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="EmployeeManagementSystem logo"></a>
 </p>
 
 <h3 align="center">EmployeeMangement</h3>
@@ -141,14 +141,4 @@ Step 6: Final Deployment
 ## Bhupendra Parihar
 - References <br>
 
-1)Centralized Employee Information, Retrieved <br>
-  
-https://www.zoho.com/people/employee-management-system.html <br>
-  
-2)Employee Management Software, Retrieved: July 8th, 2014. <br>
-  
-http://www.getapp.com/hr-employee-management-software <br>
-  
-3)Ian Sommerville, “Software Engineering”, 9th Edition, Addision-Wesley, 2011. <br>
-  
-4)Juan Manuel Munoz palacio, Information systems development methodologies for Data-driven Decision Support Systems, 2010
+1.Skill-lync
